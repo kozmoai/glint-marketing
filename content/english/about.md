@@ -16,7 +16,7 @@ about:
   video_bg_image : "images/about/about-3.jpg"
   video_thumbnail : "images/about/about-4.jpg"
   video_link : "https://www.youtube.com/embed/nqye02H_H6I?autoplay=1"
-  subtitle : "About Agico"
+  subtitle : "About Glint"
   title : "Eausmod tempor magna nostrud exercitation"
   content : "Lorem ipsum dolor sit amet consectetur adipicing elit sed do usmod tempor incididunt.enim ad minim veniam, quis nostrud exer citation ulla mco laboris nisi ut aliquip commodo. <br><br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accu santium doloreque laudantum."
   button:

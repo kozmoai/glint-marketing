@@ -13,7 +13,7 @@ logo_width = "148px"
 logo_webp = true
 
 # logo text will only show when logo is missing.
-logo_text = "Agico"
+logo_text = "Glint"
 
 # purgeCSS
 purge_css = true
@@ -55,7 +55,7 @@ link = "#"
 [contact_info]
 address = "Dubai Silicon Oasis, DDP, Building A1, Dubai, United Arab Emirates"
 mobile = "+211234565523"
-email = "info@agico.com"
+email = "info@glint.com"
 
 # google_map
 [google_map]
@@ -77,7 +77,7 @@ crisp_website_id = "9aa449e1-9999-422a-938f-8567982eec6d" # replace this code wi
 
 # seo meta data for OpenGraph / Twitter Card
 [metadata]
-keywords = ["Agico", "Hugo", "Themefisher", "GetHugoThemes"]
+keywords = ["Glint", "Hugo", "Themefisher", "GetHugoThemes"]
 description = "This is meta description"
 author = "GetHugoThemes"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own

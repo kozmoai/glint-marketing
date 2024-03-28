@@ -9,7 +9,7 @@ banner:
   image : "images/banner/banner-1.png"
   button:
     enable : true
-    label : "Get Agico"
+    label : "Get Glint"
     link : "#"
 
 ############################## Partners #################################
@@ -49,7 +49,7 @@ about:
   about_item:
     # about item loop
     - image : "images/about/about-1.png"
-      subtitle : "about agico"
+      subtitle : "about glint"
       title : "Eausmod tempor magna nostrud exercitation"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
               incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud
@@ -61,7 +61,7 @@ about:
         
     # about item loop
     - image : "images/about/about-2.png"
-      subtitle : "about agico"
+      subtitle : "about glint"
       title : "Rehenderit volupate velit proident sunt culpa"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
               incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud
@@ -128,7 +128,7 @@ testimonial:
 ############################## Download ###########################
 download:
   enable : true
-  title : "Download Agico Now"
+  title : "Download Glint Now"
   image : "images/download-mobile-img.jpg"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostrud exercitation."
   playstore:
